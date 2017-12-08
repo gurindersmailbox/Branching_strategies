@@ -1,2 +1,4 @@
 # Branching_strategies
-New change 2
+
+New addition
+>>>>>>> origin/master
